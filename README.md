@@ -1,0 +1,7 @@
+Hello!
+
+- Pronouns: She/her
+- Languages: Java, CSS/HTML
+- How to reach me: Create an issue in this repo
+
+Notable Projects: API Visualizer | Personal Website | BookSwap 
